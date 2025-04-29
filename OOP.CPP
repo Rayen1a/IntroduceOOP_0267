@@ -19,4 +19,6 @@ int main(){
     mhs.nim = 2024;
     mhs.nama = "Raihan";
     mhs.nilai = 87,9;
+
+    mhs.print_date();
 }
