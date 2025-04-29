@@ -13,3 +13,10 @@ void print_date(){
     cout << " Nilai = " << nilai << endl;
 }
 };
+
+int main(){
+    mahasiswa mhs;
+    mhs.nim = 2024;
+    mhs.nama = "Raihan";
+    mhs.nilai = 87,9;
+}
