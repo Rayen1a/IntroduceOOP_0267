@@ -7,7 +7,7 @@ int nim;
 string nama;
 float nilai;
 
-void print_date(){
+void print_data(){
     cout << " NIM = " << nim << endl;
     cout << " Nama = " << nama << endl;
     cout << " Nilai = " << nilai << endl;
@@ -20,5 +20,5 @@ int main(){
     mhs.nama = "Raihan";
     mhs.nilai = 87,9;
 
-    mhs.print_date();
+    mhs.print_data();
 }
